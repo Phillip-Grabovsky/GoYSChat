@@ -2,10 +2,10 @@
   "name": "goyschat",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node server",
-    "dev": "nodemon server",
+  "dev": "nodemon server"
   },
   "repository": {
     "type": "git",
