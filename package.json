@@ -1,5 +1,20 @@
-"main": "server.js",
-"scripts": {
-  "start": "node server",
-  "dev": "nodemon server",
+{
+  "name": "goyschat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phillip-Grabovsky/GoYSChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phillip-Grabovsky/GoYSChat/issues"
+  },
+  "homepage": "https://github.com/Phillip-Grabovsky/GoYSChat#readme"
 }
